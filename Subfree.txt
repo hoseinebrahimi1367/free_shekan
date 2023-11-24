@@ -1,1 +1,0 @@
-vless://r4d@95.217.5.104:443?mode=gun&security=reality&encryption=none&pbk=sFftnZu2VKuxOlDCvOaNT30FmKAq06EPJvh6O_R3rzU&fp=chrome&type=grpc&serviceName=@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw&sni=game-center.ir#%40free_shekan%F0%9F%98%88
